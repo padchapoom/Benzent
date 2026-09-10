@@ -1,0 +1,11 @@
+{
+  "name": "Copy of PJ Benz-ent Public Company Limited - AI Architect",
+  "description": "Premium AI-powered certificate issuance platform by PJ Benz-ent Public Company Limited, leveraging the full power of Google Gemini for high-fidelity accreditation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
